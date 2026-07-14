@@ -1,0 +1,13 @@
+package com.cupidbot;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class CupidBotApplication {
+
+    public static void main(String[] args) {
+        SpringApplication.run(CupidBotApplication.class, args);
+    }
+
+}
